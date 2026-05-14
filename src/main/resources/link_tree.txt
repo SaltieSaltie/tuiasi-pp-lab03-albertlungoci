@@ -1,0 +1,11 @@
+stackoverflow.com: stackoverflow.com/tags, stackoverflow.com/users, stackoverflow.com/questions
+stackoverflow.com/tags: stackoverflow.com/tags/java, stackoverflow.com/tags/python, stackoverflow.com/tags/sql
+stackoverflow.com/tags/java:
+stackoverflow.com/tags/python:
+stackoverflow.com/tags/sql:
+stackoverflow.com/users: stackoverflow.com/users/1144034, stackoverflow.com/users/3732271
+stackoverflow.com/users/1144034:
+stackoverflow.com/users/3732271:
+stackoverflow.com/questions: stackoverflow.com/questions/927358, stackoverflow.com/questions/292357
+stackoverflow.com/questions/927358:
+stackoverflow.com/questions/292357:
